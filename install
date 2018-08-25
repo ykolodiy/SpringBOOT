@@ -1,3 +1,7 @@
 1 way https://start.spring.io/ > download import maven project
 2 way eclipse maven add in pom: https://www.youtube.com/watch?v=BrIRiz_QaEA&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=24
 2 use ide STS
+
+
+change default properties https://www.youtube.com/watch?v=fcHYCCF9myY&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=25
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
