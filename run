@@ -1,0 +1,15 @@
+1 way
+run as standalone application  (to servlets like tomcat is needed)
+go to app folder
+mvn clean install   /here jar file snapshot is created
+java -jar name.jar   // here spring boot runs
+
+
+
+
+
+2 way 
+run as war in tomcat
+in your app pom.xml change jar to war in snapshot
+mvn clean install    //war file created
+put the war into tomcat
